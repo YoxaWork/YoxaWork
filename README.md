@@ -30,7 +30,7 @@
 
 ## 👋 Tentang Saya
 
-Halo, saya **[NAMA PANGGILAN]** — [mahasiswa/profesional] **[JURUSAN/BIDANG]** di **[UNIVERSITAS/PERUSAHAAN]**, berbasis di **[KOTA], Indonesia** 🇮🇩.
+Halo, saya **Anraku** — Mahasiswa **Teknik Informatika** di **UNIVERSITAS PAMULANG**, berbasis di **Tangerang Selatan, Indonesia** 🇮🇩.
 
 Saya fokus membangun **[jenis produk, mis. aplikasi web yang cepat, rapi, dan mudah digunakan]**. Saya percaya produk yang baik lahir dari kombinasi **kode yang bersih**, **desain yang peduli pengguna**, dan **kebiasaan belajar yang konsisten**.
 
