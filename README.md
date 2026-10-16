@@ -11,7 +11,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://id.linkedin.com/in/anraku-muhamad-anam-20a7b0345)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anraku-muhamad-anam-20a7b0345/)
+[![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/anraanam_)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoxaWork)
 
 </div>
@@ -97,7 +98,8 @@ I'm always open to discussions, collaboration, and new opportunities.
 
 | Platform | Link |
 | :-- | :-- |
-| 💼 LinkedIn | [Anraku Muhamad Anam](https://id.linkedin.com/in/anraku-muhamad-anam-20a7b0345) |
+| 💼 LinkedIn | [Anraku Muhamad Anam](https://www.linkedin.com/in/anraku-muhamad-anam-20a7b0345/) |
+| 📸 Instagram | [@anraanam_](https://instagram.com/anraanam_) |
 | 🧭 GitHub | [github.com/YoxaWork](https://github.com/YoxaWork) |
 
 ---
